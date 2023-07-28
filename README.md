@@ -1,0 +1,3 @@
+# PythonGames
+It is a collection of Terminal Based games built using Python
+Welcome to the world of Python-based terminal games! This collection of classic and entertaining games will take you on a nostalgic journey. Challenge your creativity with Madlibs, where you'll fill in the blanks and create hilarious stories. Test your luck and strategy in the timeless game of Stone-Paper-Scissors, where quick decision-making is the key to victory. And if you're up for a thrilling word-guessing adventure, dive into Hangman and save the stick figure from an untimely fate. These games are designed to provide hours of fun and mental stimulation. Just fire up your terminal, run the Python scripts, and let the gaming begin! Happy playing!
